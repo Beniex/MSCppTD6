@@ -1,0 +1,13 @@
+<Client>
+	<nomClient>Pierre</nomClient>
+	<numClient>99</numClient>
+</Client>
+<Client>
+	<nomClient>Paul</nomClient>
+	<numClient>98</numClient>
+</Client>
+<Client>
+	<nomClient>Jack</nomClient>
+	<numClient>97</numClient>
+</Client>
+

@@ -1,0 +1,4 @@
+
+	<numCommande>123456<\numCommande>
+	<numClient>55<\numClient>
+	<date>78/90<\date>

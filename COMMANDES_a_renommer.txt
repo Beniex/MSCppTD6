@@ -1,0 +1,25 @@
+<Commande>
+	<numCommande>101</numCommande>
+	<numClient>99</numClient>
+	<date>10/10/2013</date>
+</Commande>
+<Commande>
+	<numCommande>102</numCommande>
+	<numClient>99</numClient>
+	<date>11/11/2013</date>
+</Commande>
+<Commande>
+	<numCommande>103</numCommande>
+	<numClient>99</numClient>
+	<date>12/12/2013</date>
+</Commande>
+<Commande>
+	<numCommande>104</numCommande>
+	<numClient>98</numClient>
+	<date>11/11/2013</date>
+</Commande>
+<Commande>
+	<numCommande>105</numCommande>
+	<numClient>98</numClient>
+	<date>12/12/2013</date>
+</Commande>
